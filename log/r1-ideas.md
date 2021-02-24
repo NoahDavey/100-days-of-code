@@ -19,7 +19,7 @@
 * [ ] Flash card creator <- Knowledge aggregation
 * [ ] Build a microservice
 * [ ] Build a tower defense
-* [ ] 
+* [ ] Experiment with GraphQL project
 
 ## Small Extra Challenges 
 * [ ] Project Euler projects
