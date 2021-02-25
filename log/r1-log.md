@@ -11,6 +11,8 @@ Today I created a personal access token with the github API and used it to read 
 Today I created a webhook throught the github UI for my GithubAccountability Repo. I initially set it up so that whenever a comment on a commit is received that an event would be sent to me. I was able to successfully receive the payload and view the data which was sent to me. Tomorrow I plan on extending the functionlaity of this endpoint so that it does something useful when someone pushes to a repo. Likely I will do something like sending a message to telegram or signal etc. This was a good day and I feel like I better grasp the idea of Webhooks now.
 
 ### R1D3
+Today I connected to the telegram API using a bot. I struggled a bit here in trying to make the bot send me an individual method. But was successful in setting up the connection. Hopefully tomorrow I will be able to get some messages getting sent back and forth. Once that is achieved I will be able to connect up the webhook implementation and send through commit details when the webhook is hit.
+
 ### R1D4
 ### R1D5
 ### R1D6
