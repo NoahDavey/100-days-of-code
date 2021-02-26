@@ -14,6 +14,8 @@ Today I created a webhook throught the github UI for my GithubAccountability Rep
 Today I connected to the telegram API using a bot. I struggled a bit here in trying to make the bot send me an individual method. But was successful in setting up the connection. Hopefully tomorrow I will be able to get some messages getting sent back and forth. Once that is achieved I will be able to connect up the webhook implementation and send through commit details when the webhook is hit.
 
 ### R1D4
+Today I was able to get my telegram bot to send me messages and in turn I was able to send it messages. I can either call the getUpdates function to or setup a webhook where they ping me with updates. Not sure of the implementation I want yet. But i think this bot will be more used for pushing out updates and not listening to what people say. So likely will just use the 'getUpdates' for now to find out the chatID where I should be sending messages to. Tomorrow I will hopefully be able to connect the github webhook stuff and send a telegram message based off that. Im getting close now
+
 ### R1D5
 ### R1D6
 ### R1D7
