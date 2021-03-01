@@ -20,6 +20,8 @@ Today I was able to get my telegram bot to send me messages and in turn I was ab
 Today I managed to setup a full loop of sorts. When a commit is pushed to my accounability repository (and hopefully this one when I test it shortly), a webhook on my express server is hit which in turn shoots a message off through the telegram bot. I plan on trying to launch this small app on heroku tomorrow. Which will mean i can ideally have it sit there in perpetuity and ping off the alarm when I do my daily commit. I do have concern about the requirement of this to sit waiting for updates all day and having to run a webserver for that which obviously isn't free. I guess i will have to see. Worst case maybe I setup something which logs on daily and checks my Github account and does a similar sort of thing. We'll see
 
 ### R1D6
+Today I setup my heroku app and changed the urls in my github webhook setup. I have concerns about if this will work or not when it hasn't been up for a few hours (supposedly on the free tier the dynos sleep after an hour of inactivity). However a good win is that on a github push my heroku app went and send a telegram message! Woohoo, today feels like a great success 
+
 ### R1D7
 ### R1D8
 ### R1D9
