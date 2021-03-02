@@ -23,6 +23,8 @@ Today I managed to setup a full loop of sorts. When a commit is pushed to my acc
 Today I setup my heroku app and changed the urls in my github webhook setup. I have concerns about if this will work or not when it hasn't been up for a few hours (supposedly on the free tier the dynos sleep after an hour of inactivity). However a good win is that on a github push my heroku app went and send a telegram message! Woohoo, today feels like a great success 
 
 ### R1D7
+Today didn't feel very productive. I have been sick and mistakenly left this till the end of my day when I was pretty recked. I did check that the heroku app works as expected and i think overall the accountability tracker worked decently. Will expand upon it in the future but for now I should move onto something else. I did a bid of work on my scoreboard app today and made it so that when you submit a ping pong match, that is recorded in the db. So a small win 
+
 ### R1D8
 ### R1D9
 ### R1D10
