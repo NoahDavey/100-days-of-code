@@ -29,6 +29,8 @@ Today didn't feel very productive. I have been sick and mistakenly left this til
 Today I did some work on my scoreboard app. Managed to populate a dropdown with all the users I have stored in my db. This is a good step forwards in terms of functionality and tomorrow I look forwards to playing around with then referencing that detail in entries made to the match collection
 
 ### R1D9
+Today I wasn't really feeling like doing work on my scoreboard app so did an exercism problem. Solved for the prime factors of a number which wasn't too hard and a nice problem to look at this eve. Tomorrow or soon i kind of want to look at improving my accountability app somehow to allow people to link up repos via the telegram bot? Or similar, will think about this more
+
 ### R1D10
 ### R1D11
 ### R1D12
