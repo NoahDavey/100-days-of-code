@@ -32,6 +32,8 @@ Today I did some work on my scoreboard app. Managed to populate a dropdown with 
 Today I wasn't really feeling like doing work on my scoreboard app so did an exercism problem. Solved for the prime factors of a number which wasn't too hard and a nice problem to look at this eve. Tomorrow or soon i kind of want to look at improving my accountability app somehow to allow people to link up repos via the telegram bot? Or similar, will think about this more
 
 ### R1D10
+Today I did anotther exercism challenge on flattening array's. Think i will leave the github accountability planner till i have a bit more energy. Still happy with today though, came up with a decent enough solution to the problem
+
 ### R1D11
 ### R1D12
 ### R1D13
