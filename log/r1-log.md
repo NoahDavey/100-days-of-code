@@ -35,6 +35,7 @@ Today I wasn't really feeling like doing work on my scoreboard app so did an exe
 Today I did anotther exercism challenge on flattening array's. Think i will leave the github accountability planner till i have a bit more energy. Still happy with today though, came up with a decent enough solution to the problem
 
 ### R1D11
+Bit of a late one tonight. I made the stupid decision of not doing my coding earlier in the day and that meant i had to do my coding now. I am not in the best state to do my coding so as a result have been pretty inefficient. Tried some exercism problems, but pretty slow on the mark overall -.- 
 ### R1D12
 ### R1D13
 ### R1D14
