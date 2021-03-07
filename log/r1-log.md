@@ -36,7 +36,10 @@ Today I did anotther exercism challenge on flattening array's. Think i will leav
 
 ### R1D11
 Bit of a late one tonight. I made the stupid decision of not doing my coding earlier in the day and that meant i had to do my coding now. I am not in the best state to do my coding so as a result have been pretty inefficient. Tried some exercism problems, but pretty slow on the mark overall -.- 
+
 ### R1D12
+Worked on a couple exercism problems today, nothing much to report though...
+
 ### R1D13
 ### R1D14
 ### R1D15
