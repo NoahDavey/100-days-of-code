@@ -44,6 +44,8 @@ Worked on a couple exercism problems today, nothing much to report though...
 Attempted to do minesweeper challenge and still struggling with it. But made some decent steps forward today which was good
 
 ### R1D14
+Today worked on extending my github accountability tracker a bit. Managed to get all public repos via the github API. Also was able to create a webhook for that repo. Began working on sending a message from the telegram bot. And tomorrow will try to finish off this functionality. The main thing i was lacking today was being able to detect when the user has sent a message vs a response. Perhaps i will need to address this via the commands endpoint however. Not sure atm
+
 ### R1D15
 ### R1D16
 ### R1D17 
