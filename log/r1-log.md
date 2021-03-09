@@ -41,6 +41,8 @@ Bit of a late one tonight. I made the stupid decision of not doing my coding ear
 Worked on a couple exercism problems today, nothing much to report though...
 
 ### R1D13
+Attempted to do minesweeper challenge and still struggling with it. But made some decent steps forward today which was good
+
 ### R1D14
 ### R1D15
 ### R1D16
