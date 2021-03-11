@@ -47,6 +47,8 @@ Attempted to do minesweeper challenge and still struggling with it. But made som
 Today worked on extending my github accountability tracker a bit. Managed to get all public repos via the github API. Also was able to create a webhook for that repo. Began working on sending a message from the telegram bot. And tomorrow will try to finish off this functionality. The main thing i was lacking today was being able to detect when the user has sent a message vs a response. Perhaps i will need to address this via the commands endpoint however. Not sure atm
 
 ### R1D15
+Feeling pretty tired today as I had to stay back at work sorting out some automatic deposits stuff. But still sat down and did some code. Managed to add a command to the Telegram bot and hook that up to the github API so that when the user types /subscript_to_repo they get a custom keyboard where they can select the repo they would like to follow. Tomorrow I will try to set up the webhook integration wherein the user will be able to click one of the options and have the webhook created for them. Will need some way of remembering who to send updates for the repo to though...
+
 ### R1D16
 ### R1D17 
 ### R1D18
