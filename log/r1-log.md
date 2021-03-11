@@ -53,6 +53,8 @@ Feeling pretty tired today as I had to stay back at work sorting out some automa
 Today I was able to get my telegram bot to set a github webhook upon response from a user. This feels like good progress. Slowly getting somewhere and building some useful functionality. Attempting to do some minor refactoring of the code as i go as well since it is kind of gross atm. But overall pretty happy with performance so far!
 
 ### R1D17 
+Today worked on a bit of refactoring and sending some form of error/success message when the webhook was set. Also was attempting to improve the github webhook where it is based off the event type however didn't get very far with that aspect
+
 ### R1D18
 ### R1D19
 ### R1D20
