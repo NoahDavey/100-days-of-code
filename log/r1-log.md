@@ -50,6 +50,8 @@ Today worked on extending my github accountability tracker a bit. Managed to get
 Feeling pretty tired today as I had to stay back at work sorting out some automatic deposits stuff. But still sat down and did some code. Managed to add a command to the Telegram bot and hook that up to the github API so that when the user types /subscript_to_repo they get a custom keyboard where they can select the repo they would like to follow. Tomorrow I will try to set up the webhook integration wherein the user will be able to click one of the options and have the webhook created for them. Will need some way of remembering who to send updates for the repo to though...
 
 ### R1D16
+Today I was able to get my telegram bot to set a github webhook upon response from a user. This feels like good progress. Slowly getting somewhere and building some useful functionality. Attempting to do some minor refactoring of the code as i go as well since it is kind of gross atm. But overall pretty happy with performance so far!
+
 ### R1D17 
 ### R1D18
 ### R1D19
