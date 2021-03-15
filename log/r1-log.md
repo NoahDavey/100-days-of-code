@@ -59,4 +59,6 @@ Today worked on a bit of refactoring and sending some form of error/success mess
 Today managed to make a little bit or progress on the diamond exercism problem. But felt too tired to do anything productive. Hopefully tomorrow I can get a bit more done
 
 ### R1D19
+Today I added eslint and typescript to my project. Didn't really any features yet but overall feels like a good move for code cleanliness and what not
+
 ### R1D20
