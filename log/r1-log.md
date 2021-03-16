@@ -63,3 +63,24 @@ Today I added eslint and typescript to my project. Didn't really any features ye
 
 ### R1D20
 Today I converted most of the files in my project to Typescript. I think next time I start a project I will start off with Typescript. This will hopefully reduce the amount of backtracking I have to do. Feels cleaner now though which is good
+
+### R1D21
+### R1D22
+### R1D23
+### R1D24
+### R1D25
+### R1D26
+### R1D27
+### R1D28
+### R1D29
+### R1D30
+### R1D31
+### R1D32
+### R1D33
+### R1D34
+### R1D35
+### R1D36
+### R1D37
+### R1D38
+### R1D39
+### R1D40
