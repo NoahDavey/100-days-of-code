@@ -62,3 +62,4 @@ Today managed to make a little bit or progress on the diamond exercism problem. 
 Today I added eslint and typescript to my project. Didn't really any features yet but overall feels like a good move for code cleanliness and what not
 
 ### R1D20
+Today I converted most of the files in my project to Typescript. I think next time I start a project I will start off with Typescript. This will hopefully reduce the amount of backtracking I have to do. Feels cleaner now though which is good
