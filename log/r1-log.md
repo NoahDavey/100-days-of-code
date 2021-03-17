@@ -65,6 +65,8 @@ Today I added eslint and typescript to my project. Didn't really any features ye
 Today I converted most of the files in my project to Typescript. I think next time I start a project I will start off with Typescript. This will hopefully reduce the amount of backtracking I have to do. Feels cleaner now though which is good
 
 ### R1D21
+Didn't have a whole bunch of direction today. But begun the process of creating a VS Code plugin. Going to attempt to make a Cyclomatic Complexity Calculator. Which will involve some static analysis of code and presenting of data to users.
+
 ### R1D22
 ### R1D23
 ### R1D24
