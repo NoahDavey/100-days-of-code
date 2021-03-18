@@ -68,6 +68,8 @@ Today I converted most of the files in my project to Typescript. I think next ti
 Didn't have a whole bunch of direction today. But begun the process of creating a VS Code plugin. Going to attempt to make a Cyclomatic Complexity Calculator. Which will involve some static analysis of code and presenting of data to users.
 
 ### R1D22
+Feeling very sick and headachy today. Managed to add really basic codeLens functionality to the plugin. But not much overall progress. The extension world seems somewhat daunting. But will see how I go 
+
 ### R1D23
 ### R1D24
 ### R1D25
