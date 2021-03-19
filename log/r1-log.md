@@ -71,6 +71,8 @@ Didn't have a whole bunch of direction today. But begun the process of creating 
 Feeling very sick and headachy today. Managed to add really basic codeLens functionality to the plugin. But not much overall progress. The extension world seems somewhat daunting. But will see how I go 
 
 ### R1D23
+Almost didn't do my coding today again but managed to get an exercism problem finished which feels good even though it wasn't project related. Glad im keeping the streak alive
+
 ### R1D24
 ### R1D25
 ### R1D26
