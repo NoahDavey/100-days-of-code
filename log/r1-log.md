@@ -74,6 +74,8 @@ Feeling very sick and headachy today. Managed to add really basic codeLens funct
 Almost didn't do my coding today again but managed to get an exercism problem finished which feels good even though it wasn't project related. Glad im keeping the streak alive
 
 ### R1D24
+Worked on doing a binary search tree today. Was going well until I had to be able to sort it... Which is kind of the point. I think sleeping on the problem will help me with this one
+
 ### R1D25
 ### R1D26
 ### R1D27
