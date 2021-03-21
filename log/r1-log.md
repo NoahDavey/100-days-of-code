@@ -77,6 +77,8 @@ Almost didn't do my coding today again but managed to get an exercism problem fi
 Worked on doing a binary search tree today. Was going well until I had to be able to sort it... Which is kind of the point. I think sleeping on the problem will help me with this one
 
 ### R1D25
+Was feeling in a more productive mood today but got derailed by not putting myself in a place where I couldn't be distracted. I should probably do this coding in my room where I can enter a flow state or at least approach it. Though was able to play around with some hover funcitonality in vscode plugins
+
 ### R1D26
 ### R1D27
 ### R1D28
