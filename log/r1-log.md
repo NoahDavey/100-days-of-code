@@ -81,6 +81,8 @@ Was feeling in a more productive mood today but got derailed by not putting myse
 
 ### R1D26
 ### R1D27
+I didn't do my coding yesterday which I was annoyed at myself for. Though I have been going very well up until that point and will just have to make up for it on other days. It was a small misstep but hopefully not a recurring one. Today I made some good progress on my VSCode plugin which was cool. Figuring out how to make code lens appear on multiple keywords dynamically. Got to make it dissapear when the keyword is no longer there tomorrow. But so far so good!
+
 ### R1D28
 ### R1D29
 ### R1D30
