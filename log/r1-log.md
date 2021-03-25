@@ -87,6 +87,8 @@ I didn't do my coding yesterday which I was annoyed at myself for. Though I have
 Quite unproductive today, had a weak attempt at trying to make the codelens dissapear when the function keyword was moved. Will have to try again tomorrow
 
 ### R1D29
+Today felt productive which was nice. Managed to come up with a decent way of calculating complexity of functions via regular expressions. Currently only using the if/else if/else branching statements, but plan on testing it using this method and then extendint the functionality to include things like switch statements later. Tomorrow I think i will need to take a look at how I can pull out a function from the users document in VS Code
+
 ### R1D30
 ### R1D31
 ### R1D32
