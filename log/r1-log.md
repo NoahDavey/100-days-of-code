@@ -90,6 +90,8 @@ Quite unproductive today, had a weak attempt at trying to make the codelens diss
 Today felt productive which was nice. Managed to come up with a decent way of calculating complexity of functions via regular expressions. Currently only using the if/else if/else branching statements, but plan on testing it using this method and then extendint the functionality to include things like switch statements later. Tomorrow I think i will need to take a look at how I can pull out a function from the users document in VS Code
 
 ### R1D30
+Today managed to make recogition of function keyword better via a regex as well. Though still exhibits some weird behaviour when moving text around so will need to address that. All good though feels like im making some pregesss slowy but surely...
+
 ### R1D31
 ### R1D32
 ### R1D33
