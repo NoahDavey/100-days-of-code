@@ -93,6 +93,8 @@ Today felt productive which was nice. Managed to come up with a decent way of ca
 Today managed to make recogition of function keyword better via a regex as well. Though still exhibits some weird behaviour when moving text around so will need to address that. All good though feels like im making some pregesss slowy but surely...
 
 ### R1D31
+Worked on the Binary Search Tree Exercism problem today which went well once I figured out how to print out the ordered tree. Then moved onto working on an anagram problem
+
 ### R1D32
 ### R1D33
 ### R1D34
