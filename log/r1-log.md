@@ -96,6 +96,8 @@ Today managed to make recogition of function keyword better via a regex as well.
 Worked on the Binary Search Tree Exercism problem today which went well once I figured out how to print out the ordered tree. Then moved onto working on an anagram problem
 
 ### R1D32
+Yesterday just did a little work on the anagram task. I only did 30mins though...
+
 ### R1D33
 ### R1D34
 ### R1D35
