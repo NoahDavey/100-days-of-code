@@ -99,6 +99,8 @@ Worked on the Binary Search Tree Exercism problem today which went well once I f
 Yesterday just did a little work on the anagram task. I only did 30mins though...
 
 ### R1D33
+Finished the Anagram problem today, also worked on the circular buffer problem. I think I am doing these exercism problems as a way to procrastinate doing more involved projecct type work. Tomorrow I think I will force myself to work on the VS Code Extension
+
 ### R1D34
 ### R1D35
 ### R1D36
