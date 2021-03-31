@@ -105,6 +105,8 @@ Finished the Anagram problem today, also worked on the circular buffer problem. 
 Did some work on the extension yesterday working on trying to improve the detection of keywords. I feel there should be an easier way of doing this but potentially it is always custom built by people
 
 ### R1D35
+Worked on extension today and mainly did 'busy' work refactoring and what not. I need to wake up and do this coding in the morning to have some problem solving left in me i think
+
 ### R1D36
 ### R1D37
 ### R1D38
