@@ -102,6 +102,8 @@ Yesterday just did a little work on the anagram task. I only did 30mins though..
 Finished the Anagram problem today, also worked on the circular buffer problem. I think I am doing these exercism problems as a way to procrastinate doing more involved projecct type work. Tomorrow I think I will force myself to work on the VS Code Extension
 
 ### R1D34
+Did some work on the extension yesterday working on trying to improve the detection of keywords. I feel there should be an easier way of doing this but potentially it is always custom built by people
+
 ### R1D35
 ### R1D36
 ### R1D37
