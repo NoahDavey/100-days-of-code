@@ -111,6 +111,8 @@ Worked on extension today and mainly did 'busy' work refactoring and what not. I
 This was a good day, managed to reorganise the structure of some of the stuff i had been working on into a way that better made sense. Today i will hopefully be able to polish some of it, but feeling good about it
 
 ### R1D37
+Missed today because I didn't take my laptop with me to Livs. Somewhat dissapointing but oh well just gotta move on and try not slip up again
+
 ### R1D38
 ### R1D39
 ### R1D40
