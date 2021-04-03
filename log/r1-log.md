@@ -114,5 +114,7 @@ This was a good day, managed to reorganise the structure of some of the stuff i 
 Missed today because I didn't take my laptop with me to Livs. Somewhat dissapointing but oh well just gotta move on and try not slip up again
 
 ### R1D38
+Today managed to make some headway in the space of extracting functions in their entirety. Still got some work to do on it, but think i have some decent direction with it so far
+
 ### R1D39
 ### R1D40
