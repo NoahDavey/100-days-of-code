@@ -108,6 +108,8 @@ Did some work on the extension yesterday working on trying to improve the detect
 Worked on extension today and mainly did 'busy' work refactoring and what not. I need to wake up and do this coding in the morning to have some problem solving left in me i think
 
 ### R1D36
+This was a good day, managed to reorganise the structure of some of the stuff i had been working on into a way that better made sense. Today i will hopefully be able to polish some of it, but feeling good about it
+
 ### R1D37
 ### R1D38
 ### R1D39
