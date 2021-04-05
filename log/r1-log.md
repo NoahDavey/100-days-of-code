@@ -117,4 +117,6 @@ Missed today because I didn't take my laptop with me to Livs. Somewhat dissapoin
 Today managed to make some headway in the space of extracting functions in their entirety. Still got some work to do on it, but think i have some decent direction with it so far
 
 ### R1D39
+Worked on the extension today and am really close with it. Have it providing the function complexity on hover. For some reason though the hover is being janky atm and displaying all hovers on one line so need to fix that. Also been working on app W/Matt which is cool
+
 ### R1D40
