@@ -120,3 +120,25 @@ Today managed to make some headway in the space of extracting functions in their
 Worked on the extension today and am really close with it. Have it providing the function complexity on hover. For some reason though the hover is being janky atm and displaying all hovers on one line so need to fix that. Also been working on app W/Matt which is cool
 
 ### R1D40
+Worked on mine and matts project today which was good, managed to setup ESLint, typescript and nodemon for a new project. Tomorrow think I will focus on hooking up a database and how we will manage that connection effectively
+
+### R1D41
+### R1D42
+### R1D43
+### R1D44
+### R1D45
+### R1D46
+### R1D47
+### R1D48
+### R1D49
+### R1D50
+### R1D51
+### R1D52
+### R1D53
+### R1D54
+### R1D55
+### R1D56
+### R1D57
+### R1D58
+### R1D59
+### R1D60
