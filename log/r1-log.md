@@ -129,6 +129,8 @@ I worked on trying to start building out the DB and connecting to TypeORM today,
 Managed to put some data into the database using TypeORM today which was cool. Still need to improve the structure within the code but looking good so far
 
 ### R1D43
+Today managed to make the structure of the code a bit nicer and resolve some issues with the tsconfig which were causing things to crash
+
 ### R1D44
 ### R1D45
 ### R1D46
