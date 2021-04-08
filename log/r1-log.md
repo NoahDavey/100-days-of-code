@@ -126,6 +126,8 @@ Worked on mine and matts project today which was good, managed to setup ESLint, 
 I worked on trying to start building out the DB and connecting to TypeORM today, there was a few hiccups but managed to get a better idea of what direction it would be taking
 
 ### R1D42
+Managed to put some data into the database using TypeORM today which was cool. Still need to improve the structure within the code but looking good so far
+
 ### R1D43
 ### R1D44
 ### R1D45
