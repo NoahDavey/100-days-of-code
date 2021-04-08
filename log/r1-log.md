@@ -123,6 +123,8 @@ Worked on the extension today and am really close with it. Have it providing the
 Worked on mine and matts project today which was good, managed to setup ESLint, typescript and nodemon for a new project. Tomorrow think I will focus on hooking up a database and how we will manage that connection effectively
 
 ### R1D41
+I worked on trying to start building out the DB and connecting to TypeORM today, there was a few hiccups but managed to get a better idea of what direction it would be taking
+
 ### R1D42
 ### R1D43
 ### R1D44
