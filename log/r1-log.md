@@ -132,6 +132,8 @@ Managed to put some data into the database using TypeORM today which was cool. S
 Today managed to make the structure of the code a bit nicer and resolve some issues with the tsconfig which were causing things to crash
 
 ### R1D44
+I forgot to write my log for this day, but i did code... Think i did something on mine and matts project
+
 ### R1D45
 ### R1D46
 ### R1D47
