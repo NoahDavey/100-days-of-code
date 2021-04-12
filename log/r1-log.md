@@ -135,6 +135,8 @@ Today managed to make the structure of the code a bit nicer and resolve some iss
 I forgot to write my log for this day, but i did code... Think i did something on mine and matts project
 
 ### R1D45
+I did some work for Tommy at Swyftx today. Adding in functionality for different high value customer levels in intercom. Still a bit off but just need to test it works now
+
 ### R1D46
 ### R1D47
 ### R1D48
