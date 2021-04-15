@@ -138,6 +138,8 @@ I forgot to write my log for this day, but i did code... Think i did something o
 I did some work for Tommy at Swyftx today. Adding in functionality for different high value customer levels in intercom. Still a bit off but just need to test it works now
 
 ### R1D46
+Forgot to write this log - Pretty sure i just fixed a few small typeorm issues while liv was on the phone for her survey
+
 ### R1D47
 ### R1D48
 ### R1D49
