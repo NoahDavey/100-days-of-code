@@ -144,6 +144,8 @@ Forgot to write this log - Pretty sure i just fixed a few small typeorm issues w
 Was at the parents on this day. Just spent some time working on the db stuff 
 
 ### R1D48
+I worked on expanding out the repository functionality in our database library. Managed to get a few queries working as expected with the query builder which was cool.  
+
 ### R1D49
 ### R1D50
 ### R1D51
