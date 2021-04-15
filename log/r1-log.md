@@ -141,6 +141,8 @@ I did some work for Tommy at Swyftx today. Adding in functionality for different
 Forgot to write this log - Pretty sure i just fixed a few small typeorm issues while liv was on the phone for her survey
 
 ### R1D47
+Was at the parents on this day. Just spent some time working on the db stuff 
+
 ### R1D48
 ### R1D49
 ### R1D50
