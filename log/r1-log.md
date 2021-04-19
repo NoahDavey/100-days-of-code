@@ -147,6 +147,8 @@ Was at the parents on this day. Just spent some time working on the db stuff
 I worked on expanding out the repository functionality in our database library. Managed to get a few queries working as expected with the query builder which was cool.  
 
 ### R1D49
+I'm really bad at keeping these logs now. But on saturday I did something with our data structure i think?
+
 ### R1D50
 ### R1D51
 ### R1D52
