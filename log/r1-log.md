@@ -150,6 +150,8 @@ I worked on expanding out the repository functionality in our database library. 
 I'm really bad at keeping these logs now. But on saturday I did something with our data structure i think?
 
 ### R1D50
+Yesterday I kind of faffed about and didn't get much done, was trying to figure out types and create a generic XOR type where i could apply that to entity types so it would be more effective when inserting data in a specific way. But think i found a work around
+
 ### R1D51
 ### R1D52
 ### R1D53
