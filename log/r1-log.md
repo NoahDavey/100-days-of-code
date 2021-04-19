@@ -153,6 +153,8 @@ I'm really bad at keeping these logs now. But on saturday I did something with o
 Yesterday I kind of faffed about and didn't get much done, was trying to figure out types and create a generic XOR type where i could apply that to entity types so it would be more effective when inserting data in a specific way. But think i found a work around
 
 ### R1D51
+Today I worked on starting our express backend. It turned out me more researching how to make an effectively structured backend in nodeJS but glad with the progress that was made and tomorrow can hopefully crack on with making some routes. Though also leaning towards implementing a graphQL API so that might change some things? I'm not sure yet
+
 ### R1D52
 ### R1D53
 ### R1D54
