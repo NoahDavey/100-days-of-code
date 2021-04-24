@@ -165,6 +165,8 @@ This day managed to make an endpoint return a collection of trades associated wi
 I missed this day
 
 ### R1D55
+I missed this day too 🤦‍♂️
+
 ### R1D56
 ### R1D57
 ### R1D58
