@@ -159,6 +159,8 @@ Today I worked on starting our express backend. It turned out me more researchin
 Worked on implementing the graphQL stuff yesterday. Managed to get some endpoints returning data which was good
 
 ### R1D53
+This day managed to make an endpoint return a collection of trades associated with a given user
+
 ### R1D54
 ### R1D55
 ### R1D56
