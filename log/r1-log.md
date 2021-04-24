@@ -162,6 +162,8 @@ Worked on implementing the graphQL stuff yesterday. Managed to get some endpoint
 This day managed to make an endpoint return a collection of trades associated with a given user
 
 ### R1D54
+I missed this day
+
 ### R1D55
 ### R1D56
 ### R1D57
