@@ -156,6 +156,8 @@ Yesterday I kind of faffed about and didn't get much done, was trying to figure 
 Today I worked on starting our express backend. It turned out me more researching how to make an effectively structured backend in nodeJS but glad with the progress that was made and tomorrow can hopefully crack on with making some routes. Though also leaning towards implementing a graphQL API so that might change some things? I'm not sure yet
 
 ### R1D52
+Worked on implementing the graphQL stuff yesterday. Managed to get some endpoints returning data which was good
+
 ### R1D53
 ### R1D54
 ### R1D55
