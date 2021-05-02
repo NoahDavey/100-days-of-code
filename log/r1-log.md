@@ -168,6 +168,8 @@ I missed this day
 I missed this day too 🤦‍♂️
 
 ### R1D56
+Alright, so i haven't done this logging for a week. But i have been coding daily. Think i will just continue as if i was only on this day and go with that. Was stuck for most of today trying to figure out a problem, but was able to fix it. Was struggling to get the most recent record from a table given an assetId, userId and timestamp. Though i am suspecting some of my problems came from typeorm calling its columns `id` and the SQL command `MAX(columnName)` also having its own id columns... Might investigate this tomorrow. Don't want to run into other funky issues later down the line. Also wondering if i should be swapping do doucment storage through something like mongo, at thiagos suggestion? 
+
 ### R1D57
 ### R1D58
 ### R1D59
