@@ -171,6 +171,8 @@ I missed this day too 🤦‍♂️
 Alright, so i haven't done this logging for a week. But i have been coding daily. Think i will just continue as if i was only on this day and go with that. Was stuck for most of today trying to figure out a problem, but was able to fix it. Was struggling to get the most recent record from a table given an assetId, userId and timestamp. Though i am suspecting some of my problems came from typeorm calling its columns `id` and the SQL command `MAX(columnName)` also having its own id columns... Might investigate this tomorrow. Don't want to run into other funky issues later down the line. Also wondering if i should be swapping do doucment storage through something like mongo, at thiagos suggestion? 
 
 ### R1D57
+Today managed to get two core things working. One was the ability to get historical balance data for a user's asset up to a specific date. The other was the general flow of registering a user via the graphQL endpoint. Which involved connecting the resolver, to the userService, through to the DB. Might go for another layer of separation here but for now is good. Want to make the repositories get exported directly from the DB library, rather than having to call `getCustomRepository` every time i want to use them. Also had a play with the SQL issue i ran into yesterday. Seems that when you call `MAX(columnName)` it generates another table or something,resulting in that weird behaviour with IDs. Changing the column names of my tables seemed to have no effect on the behaviour. I ran across the HAVING keyword, but couldn't remember exactly how it worked, so might have to explore that further
+
 ### R1D58
 ### R1D59
 ### R1D60
