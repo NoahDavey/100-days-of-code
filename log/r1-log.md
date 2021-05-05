@@ -174,5 +174,7 @@ Alright, so i haven't done this logging for a week. But i have been coding daily
 Today managed to get two core things working. One was the ability to get historical balance data for a user's asset up to a specific date. The other was the general flow of registering a user via the graphQL endpoint. Which involved connecting the resolver, to the userService, through to the DB. Might go for another layer of separation here but for now is good. Want to make the repositories get exported directly from the DB library, rather than having to call `getCustomRepository` every time i want to use them. Also had a play with the SQL issue i ran into yesterday. Seems that when you call `MAX(columnName)` it generates another table or something,resulting in that weird behaviour with IDs. Changing the column names of my tables seemed to have no effect on the behaviour. I ran across the HAVING keyword, but couldn't remember exactly how it worked, so might have to explore that further
 
 ### R1D58
+A day late as i have been doing, but managed to help sort out some of the unit testing stuff with matt today come up with some generally better structure for the project and how data will flow through it. Managed to add in the ability to get repositories directly from the DB lib. This makes the code in other libs more simplified as they don't have to worry about the DB connection itself
+
 ### R1D59
 ### R1D60
