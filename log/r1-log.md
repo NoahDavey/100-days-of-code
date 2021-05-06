@@ -177,4 +177,6 @@ Today managed to get two core things working. One was the ability to get histori
 A day late as i have been doing, but managed to help sort out some of the unit testing stuff with matt today come up with some generally better structure for the project and how data will flow through it. Managed to add in the ability to get repositories directly from the DB lib. This makes the code in other libs more simplified as they don't have to worry about the DB connection itself
 
 ### R1D59
+Today and yesterday i managed to add functionality around refreshing a users balances. This seems pretty core and definitely something which will need to be revisited down the line. But for now happy with it. Need to spend some time hashing out what our other endpoints and what not look like. Might do that tomorrow morning. But also should probably code if im gonna do anything in particular
+
 ### R1D60
