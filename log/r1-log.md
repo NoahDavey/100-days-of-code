@@ -180,6 +180,8 @@ A day late as i have been doing, but managed to help sort out some of the unit t
 Today and yesterday i managed to add functionality around refreshing a users balances. This seems pretty core and definitely something which will need to be revisited down the line. But for now happy with it. Need to spend some time hashing out what our other endpoints and what not look like. Might do that tomorrow morning. But also should probably code if im gonna do anything in particular
 
 ### R1D60
+Missed the day yesterday but cracked on today. Spent some time better structuring some elements of the project and was also trying to figure out how to import modules correctly using TS. Seems to be a bit of a pain. But hopefully tomorrow might have some more ideas to work with
+
 ### R1D61
 ### R1D62
 ### R1D63
