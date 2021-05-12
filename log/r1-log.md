@@ -183,6 +183,8 @@ Today and yesterday i managed to add functionality around refreshing a users bal
 Missed the day yesterday but cracked on today. Spent some time better structuring some elements of the project and was also trying to figure out how to import modules correctly using TS. Seems to be a bit of a pain. But hopefully tomorrow might have some more ideas to work with
 
 ### R1D61
+Wasn't super productive today, but overall managed to make progress with TSConfig stuff and managed to allow us to use absolute imports now! Tomorrow keen to work on fleshing out the coingecko integration stuff
+
 ### R1D62
 ### R1D63
 ### R1D64
