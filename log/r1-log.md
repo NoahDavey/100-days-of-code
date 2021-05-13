@@ -186,6 +186,8 @@ Missed the day yesterday but cracked on today. Spent some time better structurin
 Wasn't super productive today, but overall managed to make progress with TSConfig stuff and managed to allow us to use absolute imports now! Tomorrow keen to work on fleshing out the coingecko integration stuff
 
 ### R1D62
+Today was a bit of a shit day in terms of getting stuff done. Mainly spent my hour looking for solutions to the TSConfig module resolution stuff. Turns out the config i thought worked yesterday just allows the TS compiler to know where to look for those modules. But when they get transpiled, the absolute paths don't get changed to valid paths and so the modules then fail to get located. There seemed to be very mixed opinions everywhere about how to fix and address this issue. I am going to go to bed now, but think i will use a plugin called `module-alias` but will see how i go. Honestly just keen to solve this one now
+
 ### R1D63
 ### R1D64
 ### R1D65
