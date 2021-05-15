@@ -189,6 +189,8 @@ Wasn't super productive today, but overall managed to make progress with TSConfi
 Today was a bit of a shit day in terms of getting stuff done. Mainly spent my hour looking for solutions to the TSConfig module resolution stuff. Turns out the config i thought worked yesterday just allows the TS compiler to know where to look for those modules. But when they get transpiled, the absolute paths don't get changed to valid paths and so the modules then fail to get located. There seemed to be very mixed opinions everywhere about how to fix and address this issue. I am going to go to bed now, but think i will use a plugin called `module-alias` but will see how i go. Honestly just keen to solve this one now
 
 ### R1D63
+Today spent some more time struggling with the absolute path stuff until i just put it aside so i could make some actual progress with the project. Annoyed i spend the time on trying to figure it out and getting nowwhere. Will likely have to come back at some point in the future and resolve this issue properly. But for now onwards and upwards. Spend some time creating a 1:1 table today to keep track of coin gecko asset mappings as they will likely differ from our internal asset ids etc. Will hopefully help longterm
+
 ### R1D64
 ### R1D65
 ### R1D66
