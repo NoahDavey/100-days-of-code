@@ -192,6 +192,8 @@ Today was a bit of a shit day in terms of getting stuff done. Mainly spent my ho
 Today spent some more time struggling with the absolute path stuff until i just put it aside so i could make some actual progress with the project. Annoyed i spend the time on trying to figure it out and getting nowwhere. Will likely have to come back at some point in the future and resolve this issue properly. But for now onwards and upwards. Spend some time creating a 1:1 table today to keep track of coin gecko asset mappings as they will likely differ from our internal asset ids etc. Will hopefully help longterm
 
 ### R1D64
+Yesterday i didn't get a tonne done. Was overall pretty tired and my brain wasn't there. Added some stuff to the coin gecko class. And did some testing around with the api. But nothing solid. Today gonna work on creating a function which i can call with a given assetId in our DB which will also get a few relevant exchange rates and put those into the db
+
 ### R1D65
 ### R1D66
 ### R1D67
