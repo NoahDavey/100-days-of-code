@@ -195,6 +195,8 @@ Today spent some more time struggling with the absolute path stuff until i just 
 Yesterday i didn't get a tonne done. Was overall pretty tired and my brain wasn't there. Added some stuff to the coin gecko class. And did some testing around with the api. But nothing solid. Today gonna work on creating a function which i can call with a given assetId in our DB which will also get a few relevant exchange rates and put those into the db
 
 ### R1D65
+Managed to get coingecko setup today so that i am able to retreive coin price data for each asset in my binance portfolio and store that alongside it in the db. Tomorrow i would like to improve this slightly by getting multiple coin prices in one call rather than individual ones. This will help reduce rate limiting issues early on. Though i imagine it will still be a problem...
+
 ### R1D66
 ### R1D67
 ### R1D68
