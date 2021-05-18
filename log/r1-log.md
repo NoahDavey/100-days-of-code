@@ -198,6 +198,8 @@ Yesterday i didn't get a tonne done. Was overall pretty tired and my brain wasn'
 Managed to get coingecko setup today so that i am able to retreive coin price data for each asset in my binance portfolio and store that alongside it in the db. Tomorrow i would like to improve this slightly by getting multiple coin prices in one call rather than individual ones. This will help reduce rate limiting issues early on. Though i imagine it will still be a problem...
 
 ### R1D66
+Was working on the bulk getting of price data from coingecko today. Though struggled to make progress as i ran into a roadblock when trying to identify the assetInfo from the database for each balance object returned from binance. Not the biggest issue in the world. But i wonder if it is a sign of some key architechture decisions i will need to make... Also making a note that the balance service should probably call an 'exchangeIntegrationService' or similar which would get all integrated exchange data in a consistent format
+
 ### R1D67
 ### R1D68
 ### R1D69
