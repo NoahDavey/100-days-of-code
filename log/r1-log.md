@@ -201,6 +201,8 @@ Managed to get coingecko setup today so that i am able to retreive coin price da
 Was working on the bulk getting of price data from coingecko today. Though struggled to make progress as i ran into a roadblock when trying to identify the assetInfo from the database for each balance object returned from binance. Not the biggest issue in the world. But i wonder if it is a sign of some key architechture decisions i will need to make... Also making a note that the balance service should probably call an 'exchangeIntegrationService' or similar which would get all integrated exchange data in a consistent format
 
 ### R1D67
+I missed yesterday but that was because of mine and livs 2 year so ill give myself that one aha. Managed to get the bulk balance getting from CoinGecko today. Took me a bit to sort out a few issues, mainly around linting not liking code and having to figure out ways around it. Was overall a good thought exercise though and glad it is done now. Might spend some time tomorrow trying to figure out how we can abstract away the 'getPricingData' like calls 
+
 ### R1D68
 ### R1D69
 ### R1D70
