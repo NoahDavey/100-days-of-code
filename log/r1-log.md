@@ -204,6 +204,8 @@ Was working on the bulk getting of price data from coingecko today. Though strug
 I missed yesterday but that was because of mine and livs 2 year so ill give myself that one aha. Managed to get the bulk balance getting from CoinGecko today. Took me a bit to sort out a few issues, mainly around linting not liking code and having to figure out ways around it. Was overall a good thought exercise though and glad it is done now. Might spend some time tomorrow trying to figure out how we can abstract away the 'getPricingData' like calls 
 
 ### R1D68
+Today i removed the binance api key & secret key from the users table, managed to abstract it away so they would be slightly more secure and more scalable for adding new exchanges etc. Overall seems like a good solution. Tomorrow will probably need to add in functionality around an 'exchangeService' which you would call too, and that might go to all exchanges a user has integrated with and make calls to their apis to get current balance data
+
 ### R1D69
 ### R1D70
 ### R1D71
