@@ -207,6 +207,8 @@ I missed yesterday but that was because of mine and livs 2 year so ill give myse
 Today i removed the binance api key & secret key from the users table, managed to abstract it away so they would be slightly more secure and more scalable for adding new exchanges etc. Overall seems like a good solution. Tomorrow will probably need to add in functionality around an 'exchangeService' which you would call too, and that might go to all exchanges a user has integrated with and make calls to their apis to get current balance data
 
 ### R1D69
+I actually ended up working on the pricing service today since i think it would be best to wait a little on the exchange service for matts stuff to be merged in. Managed to decently abstract away the logic behind getting prices. Not sure if i like how the interface is atm though, involves alot of array searching, maybe a map would be a better approach...
+
 ### R1D70
 ### R1D71
 ### R1D72
