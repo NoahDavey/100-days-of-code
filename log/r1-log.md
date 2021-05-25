@@ -213,6 +213,8 @@ I actually ended up working on the pricing service today since i think it would 
 Ended up doing the exchange service stuff today which was good, managed to abstract away a decent amount of the logic around which exchange we were getting balances from to a separate file. The question of how we generesize that effectively still looms. The use of classes, inheritence and what not might help us a decent amount but will see how we go. Not sure if i will get around to coding tomorrow tbh, but if i do, i want to have a look at a swyftx integration
 
 ### R1D71
+Begun my integration with swyftx today, managed to get a solid start and got my balances. Though need to some up with some solution for asset Id mapping from swyftx -> our platform. Will see how i go with it
+
 ### R1D72
 ### R1D73
 ### R1D74
