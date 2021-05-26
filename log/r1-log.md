@@ -216,6 +216,8 @@ Ended up doing the exchange service stuff today which was good, managed to abstr
 Begun my integration with swyftx today, managed to get a solid start and got my balances. Though need to some up with some solution for asset Id mapping from swyftx -> our platform. Will see how i go with it
 
 ### R1D72
+Today worked on repurposing the CoinGecko asset mapping repository to become more generic and allow us to work with other exchanges. Mainly useful for something like supporting an exchange such as swyftx and their coins -> our coins. Tomorrow might have a crack at importing a fucktonne of assets into the db and then mapping those in the DB
+
 ### R1D73
 ### R1D74
 ### R1D75
